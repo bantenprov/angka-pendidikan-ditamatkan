@@ -1,0 +1,168 @@
+[
+{
+    "2012": [
+      {
+        "kabupaten": [
+          {
+            "tingkat": "Kabupaten",
+            "wilayah": "Banten",
+            "name": "Tidak/Belum Tamat SD/MI/Sederajat",
+            "data": {
+              " Pandeglang": 21.07,
+              " Lebak": 24.79,
+              "Tangerang": 12.50,
+              "Serang": 19.04
+            }
+          },
+          {
+            "tingkat": "Kabupaten",
+            "wilayah": "Banten",
+            "name": "Tamat SD/MI/Sederajat ",
+            "data": {
+              " Pandeglang": 41.01,
+              " Lebak": 47.19,
+              "Tangerang": 22.48,
+              "Serang": 32.93
+            }
+          }
+        ],
+        
+        "kota": [
+          {
+            "tingkat": "Kota",
+            "wilayah": "Banten",
+            "name": "Tidak/Belum Tamat SD/MI/Sederajat",
+            "data": {
+              "Tangerang": 7.38,
+              "Cilegon": 5.73,
+              "Serang": 13.04,
+              "Tangerang Selatan": 4.75
+            }
+          },
+          {
+            "tingkat": "Kota",
+            "wilayah": "Banten",
+            "name": "Tamat SD/MI/Sederajat",
+            "data": {
+              "Tangerang": 14.06,
+              "Cilegon": 21.06,
+              "Serang": 27.74,
+              "Tangerang Selatan": 13.24
+            }
+          }
+        ]
+      }
+    ],
+    
+     "2013": [
+      {
+        "kabupaten": [
+          {
+            "tingkat": "Kabupaten",
+            "wilayah": "Banten",
+            "name": "Tidak/Belum Tamat SD/MI/Sederajat",
+            "data": {
+              " Pandeglang": 25.72,
+              " Lebak": 26.46,
+              "Tangerang": 18.75,
+              "Serang": 21.96
+            }
+          },
+          {
+            "tingkat": "Kabupaten",
+            "wilayah": "Banten",
+            "name": "Tamat SD/MI/Sederajat ",
+            "data": {
+              " Pandeglang": 39.31,
+              " Lebak": 43.38,
+              "Tangerang": 24.45,
+              "Serang": 30.99
+            }
+          }
+        ],
+        
+        "kota": [
+          {
+            "tingkat": "Kota",
+            "wilayah": "Banten",
+            "name": "Tidak/Belum Tamat SD/MI/Sederajat",
+            "data": {
+              "Tangerang": 10.71,
+              "Cilegon": 13.97 ,
+              "Serang": 12.97,
+              "Tangerang Selatan": 6.68
+            }
+          },
+          {
+            "tingkat": "Kota",
+            "wilayah": "Banten",
+            "name": "Tamat SD/MI/Sederajat",
+            "data": {
+              "Tangerang": 15.45,
+              "Cilegon": 20.31,
+              "Serang": 32.10,
+              "Tangerang Selatan": 13.72
+            }
+          }
+        ]
+      }
+    ],
+    
+    "2014": [
+      {
+        "kabupaten": [
+          {
+            "tingkat": "Kabupaten",
+            "wilayah": "Banten",
+            "name": "Tidak/Belum Tamat SD/MI/Sederajat",
+            "data": {
+              " Pandeglang": 26.04,
+              " Lebak": 30.14,
+              "Tangerang": 20.19,
+              "Serang": 24.24
+            }
+          },
+          {
+            "tingkat": "Kabupaten",
+            "wilayah": "Banten",
+            "name": "Tamat SD/MI/Sederajat ",
+            "data": {
+              " Pandeglang": 37.75,
+              " Lebak": 41.34,
+              "Tangerang": 22.50,
+              "Serang": 31.00
+            }
+          }
+        ],
+        
+        "kota": [
+          {
+            "tingkat": "Kota",
+            "wilayah": "Banten",
+            "name": "Tidak/Belum Tamat SD/MI/Sederajat",
+            "data": {
+              "Tangerang": 8.18 ,
+              "Cilegon": 11.16 ,
+              "Serang": 18.67,
+              "Tangerang Selatan": 5.98
+            }
+          },
+          {
+            "tingkat": "Kota",
+            "wilayah": "Banten",
+            "name": "Tamat SD/MI/Sederajat",
+            "data": {
+              "Tangerang": 14.51,
+              "Cilegon": 18.81,
+              "Serang": 29.73,
+              "Tangerang Selatan": 11.98
+            }
+          }
+        ]
+      }
+    ]
+    
+   
+      
+  }
+  ]
