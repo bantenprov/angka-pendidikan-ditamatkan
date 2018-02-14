@@ -1,0 +1,81 @@
+[
+{
+    "2012": [
+      {
+        "provinsi": [
+          {
+            "tingkat": "Provinsi",
+            "wilayah": "Banten",
+            "name": "Tidak/Belum Tamat SD/MI/Sederajat",
+            "data": {
+              " Provinsi Banten": 16.65
+            }
+          },
+          {
+            "tingkat": "Provinsi",
+            "wilayah": "Banten",
+            "name": "Tamat SD/MI/Sederajat ",
+            "data": {
+              " Provinsi Banten": 24.60,
+              " Lebak": 47.19,
+              "Tangerang": 22.48,
+              "Serang": 32.93
+            }
+          }
+        ]
+        }
+        ],
+        
+    
+     "2013": [
+      {
+        "provinsi": [
+          {
+            "tingkat": "Provinsi",
+            "wilayah": "Banten",
+            "name": "Tidak/Belum Tamat SD/MI/Sederajat",
+            "data": {
+              " Provinsi Banten": 17.79
+            }
+          },
+          {
+            "tingkat": "Provinsi",
+            "wilayah": "Banten",
+            "name": "Tamat SD/MI/Sederajat ",
+            "data": {
+              " Provinsi Banten": 25.61
+            }
+          }
+        ]
+        }
+        ],
+        
+    
+    "2014": [
+      {
+        "provinsi": [
+          {
+            "tingkat": "Provinsi",
+            "wilayah": "Banten",
+            "name": "Tidak/Belum Tamat SD/MI/Sederajat",
+            "data": {
+              " Provinsi Banten": 17.87
+            }
+          },
+          {
+            "tingkat": "Provinsi",
+            "wilayah": "Banten",
+            "name": "Tamat SD/MI/Sederajat ",
+            "data": {
+              " Provinsi Banten": 24.40
+            }
+          }
+        ]
+        
+      }
+    ]
+    
+   
+      
+  }
+  ]
