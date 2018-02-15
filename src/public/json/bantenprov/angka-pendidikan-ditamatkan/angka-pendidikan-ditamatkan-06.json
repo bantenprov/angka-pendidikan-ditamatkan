@@ -1,0 +1,196 @@
+[
+  {
+    "2011": [
+      {
+        "provinsi": [
+          {
+            "tingkat": "Provinsi",
+            "wilayah": "Banten",
+            "name": "Provinsi Banten",
+            "data": {
+              " Tidak/Belum Tamat SD/MI/Sederajat": 18.53,
+              " SD/MI/Sederajat": 25.85,
+              " SMP/MTs/Sederajat": 21.52,
+              " SMA/SMK/MA/Sederajat": 26.3,
+              " Diploma I/II/III": 2.65,
+              " S1/D-IV ke Atas": 5.15
+            }
+          },
+          {
+            "tingkat": "Nasional",
+            "wilayah": "Indonesia",
+            "name": "Indonesia",
+            "data": {
+              " Tidak/Belum Tamat SD/MI/Sederajat": 21.1,
+              " SD/MI/Sederajat": 28.72,
+              " SMP/MTs/Sederajat": 20.74,
+              " SMA/SMK/MA/Sederajat": 22.71,
+              " Diploma I/II/III": 2.31,
+              " S1/D-IV ke Atas": 4.42
+            }
+          }
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "provinsi": [
+          {
+            "tingkat": "Provinsi",
+            "wilayah": "Banten",
+            "name": "Provinsi Banten",
+            "data": {
+              " Tidak/Belum Tamat SD/MI/Sederajat": 16.65,
+              " SD/MI/Sederajat": 24.6,
+              " SMP/MTs/Sederajat": 22.38,
+              " SMA/SMK/MA/Sederajat": 28.48,
+              " Diploma I/II/III": 2.51,
+              " S1/D-IV ke Atas": 5.39
+            }
+          },
+          {
+            "tingkat": "Nasional",
+            "wilayah": "Indonesia",
+            "name": "Indonesia",
+            "data": {
+              " Tidak/Belum Tamat SD/MI/Sederajat": 19.78,
+              " SD/MI/Sederajat": 28.09,
+              " SMP/MTs/Sederajat": 21,
+              " SMA/SMK/MA/Sederajat": 23.97,
+              " Diploma I/II/III": 2.26,
+              " S1/D-IV ke Atas": 4.9
+            }
+          }
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "provinsi": [
+          {
+            "tingkat": "Provinsi",
+            "wilayah": "Banten",
+            "name": "Provinsi Banten",
+            "data": {
+              " Tidak/Belum Tamat SD/MI/Sederajat": 17.79,
+              " SD/MI/Sederajat": 25.61,
+              " SMP/MTs/Sederajat": 21.06,
+              " SMA/SMK/MA/Sederajat": 27.89,
+              " Diploma I/II/III": 2.45,
+              " S1/D-IV ke Atas": 5.21
+            }
+          },
+          {
+            "tingkat": "Nasional",
+            "wilayah": "Indonesia",
+            "name": "Indonesia",
+            "data": {
+              " Tidak/Belum Tamat SD/MI/Sederajat": 19.9,
+              " SD/MI/Sederajat": 28.43,
+              " SMP/MTs/Sederajat": 20.41,
+              " SMA/SMK/MA/Sederajat": 24.31,
+              " Diploma I/II/III": 2.15,
+              " S1/D-IV ke Atas": 4.81
+            }
+          }
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "provinsi": [
+          {
+            "tingkat": "Provinsi",
+            "wilayah": "Banten",
+            "name": "Provinsi Banten",
+            "data": {
+              " Tidak/Belum Tamat SD/MI/Sederajat": 17.87,
+              " SD/MI/Sederajat": 24.4,
+              " SMP/MTs/Sederajat": 21.17,
+              " SMA/SMK/MA/Sederajat": 28.03,
+              " Diploma I/II/III": 2.26,
+              " S1/D-IV ke Atas": 6.27
+            }
+          },
+          {
+            "tingkat": "Nasional",
+            "wilayah": "Indonesia",
+            "name": "Indonesia",
+            "data": {
+              " Tidak/Belum Tamat SD/MI/Sederajat": 19.13,
+              " SD/MI/Sederajat": 27.41,
+              " SMP/MTs/Sederajat": 20.82,
+              " SMA/SMK/MA/Sederajat": 25.18,
+              " Diploma I/II/III": 2.14,
+              " S1/D-IV ke Atas": 5.32
+            }
+          }
+        ]
+      }
+    ],
+    "2015": [
+      {
+        "provinsi": [
+          {
+            "tingkat": "Provinsi",
+            "wilayah": "Banten",
+            "name": "Provinsi Banten",
+            "data": {
+              " Tidak/Belum Tamat SD/MI/Sederajat": 15.65,
+              " SD/MI/Sederajat": 26.50,
+              " SMP/MTs/Sederajat": 21.44,
+              " SMA/SMK/MA/Sederajat": 28.21,
+              " Diploma I/II/III": 2.44,
+              " S1/D-IV ke Atas": 5.77
+            }
+          },
+          {
+            "tingkat": "Nasional",
+            "wilayah": "Indonesia",
+            "name": "Indonesia",
+            "data": {
+              " Tidak/Belum Tamat SD/MI/Sederajat": 18.52,
+              " SD/MI/Sederajat": 27.79,
+              " SMP/MTs/Sederajat": 21.44,
+              " SMA/SMK/MA/Sederajat": 24.30,
+              " Diploma I/II/III": 2.33,
+              " S1/D-IV ke Atas": 5.62
+            }
+          }
+        ]
+      }
+    ],
+    "2016": [
+      {
+        "provinsi": [
+          {
+            "tingkat": "Provinsi",
+            "wilayah": "Banten",
+            "name": "Provinsi Banten",
+            "data": {
+              " Tidak/Belum Tamat SD/MI/Sederajat": 12.71,
+              " SD/MI/Sederajat": 31.48,
+              " SMP/MTs/Sederajat": 18.67,
+              " SMA/SMK/MA/Sederajat": 28.81,
+              " Diploma I/II/III": 1.94,
+              " S1/D-IV ke Atas": 6.39
+            }
+          },
+          {
+            "tingkat": "Nasional",
+            "wilayah": "Indonesia",
+            "name": "Indonesia",
+            "data": {
+              " Tidak/Belum Tamat SD/MI/Sederajat": 16.16,
+              " SD/MI/Sederajat": 33.08,
+              " SMP/MTs/Sederajat": 16.49,
+              " SMA/SMK/MA/Sederajat": 26.35,
+              " Diploma I/II/III": 1.96,
+              " S1/D-IV ke Atas": 5.96
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
