@@ -25,7 +25,7 @@
         <div class="card h-100" style="color: #fff; background-color: #009688;">
           <div class="card-header">
             <i class="fa fa-bar-chart" aria-hidden="true"></i>
-            Rasio Grup Kesenian Berdasarkan Wilayah
+            Angka Pendidikan Yang Ditamatkan di Provinsi Banten dan Indonesia Berdasarkan Tahun
           </div>
           <div class="card-body">
             <angka-pendidikan-ditamatkan-bar-01></angka-pendidikan-ditamatkan-bar-01>
@@ -36,7 +36,7 @@
         <div class="card h-100" style="color: #fff; background-color: #FF9800;">
           <div class="card-header">
             <i class="fa fa-pie-chart" aria-hidden="true"></i>
-            Rasio Grup Kesenian Berdasarkan Tahun
+             Angka Pendidikan Yang Ditamatkan di Provinsi Banten dan Indonesia Berdasarkan Tahun
           </div>
           <div class="card-body">
             <angka-pendidikan-ditamatkan-pie-01></angka-pendidikan-ditamatkan-pie-01>
@@ -52,7 +52,7 @@
         <div class="card h-100" style="color: #fff; background-color: #F44336;">
           <div class="card-header">
             <i class="fa fa-pie-chart" aria-hidden="true"></i>
-            Rasio Grup Kesenian Berdasarkan Wilayah
+            Angka Pendidikan Yang Ditamatkan di Provinsi Banten Berdasarkan Wilayah
           </div>
           <div class="card-body">
             <angka-pendidikan-ditamatkan-pie-02></angka-pendidikan-ditamatkan-pie-02>
@@ -63,7 +63,7 @@
         <div class="card text-white bg-dark h-100">
           <div class="card-header">
             <i class="fa fa-bar-chart" aria-hidden="true"></i>
-            Rasio Grup Kesenian Berdasarkan Tahun
+             Angka Pendidikan Yang Ditamatkan di Provinsi Banten Berdasarkan Tahun
           </div>
           <div class="card-body">
             <angka-pendidikan-ditamatkan-bar-02></angka-pendidikan-ditamatkan-bar-02>

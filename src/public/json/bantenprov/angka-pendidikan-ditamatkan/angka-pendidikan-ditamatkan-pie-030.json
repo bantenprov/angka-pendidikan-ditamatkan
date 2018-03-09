@@ -4,18 +4,18 @@
       "type": "category",
       "region": "Provinsi",
       "name": "Banten",
-      "title": "Rasio Grup Kesenian Provinsi Banten",
+      "title": "Tidak/Belum Tamat SD/MI/Sederajat Provinsi Banten",
       "yyyy": "2018"
     },
     "series": [
       {
         "data": [
-          {"value":7.92,"name":"2010"},
-          {"value":7.95,"name":"2011"},
-          {"value":8.06,"name":"2012"},
-          {"value":8.17,"name":"2013"},
-          {"value":8.19,"name":"2014"},
-          {"value":8.27,"name":"2015"}
+          {"value":18.53,"name":"2011"},
+          {"value":16.65,"name":"2012"},
+          {"value":17.79,"name":"2013"},
+          {"value":17.87,"name":"2014"},
+          {"value":15.65,"name":"2015"},
+          {"value":12.71,"name":"2016"}
         ]
       }
     ]
@@ -25,20 +25,231 @@
       "type": "category",
       "region": "Provinsi",
       "name": "Banten",
-      "title": "Rasio Grup Kesenian Negara Indonesia",
+      "title": "SD/MI/Sederajat Provinsi Banten",
       "yyyy": "2018"
     },
     "series": [
       {
         "data": [
-          {"value":7.46,"name":"2010"},
-          {"value":7.52,"name":"2011"},
-          {"value":7.59,"name":"2012"},
-          {"value":7.61,"name":"2013"},
-          {"value":7.73,"name":"2014"},
-          {"value":7.84,"name":"2015"}
+          {"value":25.85,"name":"2011"},
+          {"value":24.60,"name":"2012"},
+          {"value":25.61,"name":"2013"},
+          {"value":24.40,"name":"2014"},
+          {"value":26.50,"name":"2015"},
+          {"value":31.48,"name":"2016"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "SMP/MTs/Sederajat Provinsi Banten",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":21.52,"name":"2011"},
+          {"value":22.38,"name":"2012"},
+          {"value":21.06,"name":"2013"},
+          {"value":21.17,"name":"2014"},
+          {"value":21.44,"name":"2015"},
+          {"value":18.67,"name":"2016"}
+        ]
+      }
+    ]
+  },
+{
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "SMA/SMK/MA/Sederajat Provinsi Banten",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":26.30,"name":"2011"},
+          {"value":28.48,"name":"2012"},
+          {"value":27.89,"name":"2013"},
+          {"value":28.03,"name":"2014"},
+          {"value":28.21,"name":"2015"},
+          {"value":28.81,"name":"2016"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "DIploma I/II/III Provinsi Banten",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":2.65,"name":"2011"},
+          {"value":2.51,"name":"2012"},
+          {"value":2.45,"name":"2013"},
+          {"value":2.26,"name":"2014"},
+          {"value":2.44,"name":"2015"},
+          {"value":1.94,"name":"2016"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "S1/D-IV ke Atas Provinsi Banten",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":5.15,"name":"2011"},
+          {"value":5.39,"name":"2012"},
+          {"value":5.21,"name":"2013"},
+          {"value":6.27,"name":"2014"},
+          {"value":5.77,"name":"2015"},
+          {"value":6.39,"name":"2016"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "Tidak/Belum Tamat SD/MI/Sederajat Seluruh Indonesia",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":21.10,"name":"2011"},
+          {"value":19.78,"name":"2012"},
+          {"value":19.90,"name":"2013"},
+          {"value":19.13,"name":"2014"},
+          {"value":18.52,"name":"2015"},
+          {"value":16.16,"name":"2016"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "SD/MI/Sederajat Seluruh Indonesia",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":28.72,"name":"2011"},
+          {"value":28.09,"name":"2012"},
+          {"value":28.43,"name":"2013"},
+          {"value":27.41,"name":"2014"},
+          {"value":27.79,"name":"2015"},
+          {"value":33.08,"name":"2016"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "SMP/MTs/Sederajat Seluruh Indonesia",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":20.74,"name":"2011"},
+          {"value":21.00,"name":"2012"},
+          {"value":20.41,"name":"2013"},
+          {"value":20.82,"name":"2014"},
+          {"value":21.44,"name":"2015"},
+          {"value":16.49,"name":"2016"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "SMA/SMK/MA/Sederajat Seluruh Indonesia",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":22.71,"name":"2011"},
+          {"value":23.97,"name":"2012"},
+          {"value":24.31,"name":"2013"},
+          {"value":25.18,"name":"2014"},
+          {"value":24.30,"name":"2015"},
+          {"value":26.35,"name":"2016"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "Diploma I/II/III Seluruh Indonesia",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":2.31,"name":"2011"},
+          {"value":2.26,"name":"2012"},
+          {"value":2.15,"name":"2013"},
+          {"value":2.14,"name":"2014"},
+          {"value":2.33,"name":"2015"},
+          {"value":1.96,"name":"2016"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "S1/D-IV ke Atas Seluruh Indonesia",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":4.42,"name":"2011"},
+          {"value":4.90,"name":"2012"},
+          {"value":4.81,"name":"2013"},
+          {"value":5.32,"name":"2014"},
+          {"value":5.62,"name":"2015"},
+          {"value":5.96,"name":"2016"}
         ]
       }
     ]
   }
+  
 ]
