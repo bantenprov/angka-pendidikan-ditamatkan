@@ -5,25 +5,29 @@
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2011",
-      "title": "Rasio Grup Kesenian Provinsi Banten",
+      "title": "Tidak/Belum Tamat SD/MI/Sederajat 2012",
       "data": [
-        "2010",
-        "2011",
-        "2012",
-        "2013",
-        "2014",
-        "2015"
+        "Kab. Pandeglang",
+        "Kab. Lebak",
+        "Kab. Tangerang",
+        "Kab. Serang",
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
       ]
     },
     "series": [
       {
         "data": [
-          7.92,
-          7.95,
-          8.06,
-          8.17,
-          8.19,
-          8.27
+          21.07,
+          24.79,
+          12.50,
+          19.04,
+          7.38,
+          5.73,
+          13.04,
+          4.75
         ]
       }
     ]
@@ -31,29 +35,567 @@
   {
     "xAxis": {
       "type": "category",
-      "region": "Negara",
-      "title": "Rasio Grup Kesenian Negara Indonesia",
+      "region": "Provinsi",
+      "name": "Banten",
       "yyyy": "2011",
+      "title": "Tidak/Belum Tamat SD/MI/Sederajat 2013",
       "data": [
-        "2010",
-        "2011",
-        "2012",
-        "2013",
-        "2014",
-        "2015"
+        "Kab. Pandeglang",
+        "Kab. Lebak",
+        "Kab. Tangerang",
+        "Kab. Serang",
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
       ]
     },
     "series": [
       {
         "data": [
-          7.46,
-          7.52,
-          7.59,
-          7.61,
-          7.73,
-          7.84
+          25.72,
+          26.46,
+          18.75,
+          21.96,
+          10.71,
+          13.97,
+          12.97,
+          6.68
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2011",
+      "title": "Tidak/Belum Tamat SD/MI/Sederajat 2014",
+      "data": [
+        "Kab. Pandeglang",
+        "Kab. Lebak",
+        "Kab. Tangerang",
+        "Kab. Serang",
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          26.04,
+          30.14,
+          20.19,
+          24.24,
+          8.18,
+          11.16,
+          18.67,
+          5.98
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2011",
+      "title": "Tamat SD/MI/Sederajat 2012",
+      "data": [
+        "Kab. Pandeglang",
+        "Kab. Lebak",
+        "Kab. Tangerang",
+        "Kab. Serang",
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          41.01,
+          47.19,
+          22.48,
+          32.93,
+          14.06,
+          21.06,
+          27.74,
+          13.24
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2011",
+      "title": "Tamat SD/MI/Sederajat 2013",
+      "data": [
+        "Kab. Pandeglang",
+        "Kab. Lebak",
+        "Kab. Tangerang",
+        "Kab. Serang",
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          39.31,
+          43.38,
+          24.45,
+          30.99,
+          15.45,
+          20.31,
+          32.10,
+          13.72
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2011",
+      "title": "Tamat SD/MI/Sederajat 2014",
+      "data": [
+        "Kab. Pandeglang",
+        "Kab. Lebak",
+        "Kab. Tangerang",
+        "Kab. Serang",
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          37.75,
+          41.34,
+          22.50,
+          31.00,
+          14.51,
+          18.81,
+          29.73,
+          11.98
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2011",
+      "title": "SMP/MTs/Sederajat 2012",
+      "data": [
+        "Kab. Pandeglang",
+        "Kab. Lebak",
+        "Kab. Tangerang",
+        "Kab. Serang",
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          20.93,
+          16.01,
+          27.59,
+          23.75,
+          23.34,
+          26.72,
+          20.98,
+          21.40
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2011",
+      "title": "SMP/MTs/Sederajat 2013",
+      "data": [
+        "Kab. Pandeglang",
+        "Kab. Lebak",
+        "Kab. Tangerang",
+        "Kab. Serang",
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          17.97,
+          17.22,
+          22.66,
+          26.68,
+          22.21,
+          25.54,
+          23.55,
+          19.53
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2011",
+      "title": "SMP/MTs/Sederajat 2014",
+      "data": [
+        "Kab. Pandeglang",
+        "Kab. Lebak",
+        "Kab. Tangerang",
+        "Kab. Serang",
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          19.65,
+          16.97,
+          23.05,
+          23.17,
+          21.05,
+          23.05,
+          21.19,
+          19.43
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2011",
+      "title": "SMA/SMK/MA/Sederajat 2012",
+      "data": [
+        "Kab. Pandeglang",
+        "Kab. Lebak",
+        "Kab. Tangerang",
+        "Kab. Serang",
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          13.62,
+          10.14,
+          32.20,
+          20.66,
+          43.78,
+          37.66,
+          29.62,
+          38.28
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2011",
+      "title": "SMA/SMK/MA/Sederajat 2013",
+      "data": [
+        "Kab. Pandeglang",
+        "Kab. Lebak",
+        "Kab. Tangerang",
+        "Kab. Serang",
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          13.90,
+          10.71,
+          29.16,
+          18.37,
+          41.70,
+          34.10,
+          24.76,
+          39.14
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2011",
+      "title": "SMA/SMK/MA/Sederajat 2014",
+      "data": [
+        "Kab. Pandeglang",
+        "Kab. Lebak",
+        "Kab. Tangerang",
+        "Kab. Serang",
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          13.19,
+          9.37,
+          28.46,
+          18.75,
+          41.92,
+          40.14,
+          24.26,
+          40.84
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2011",
+      "title": "Diploma I/II/III 2012",
+      "data": [
+        "Kab. Pandeglang",
+        "Kab. Lebak",
+        "Kab. Tangerang",
+        "Kab. Serang",
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0.89,
+          0.62,
+          2.05,
+          1.05,
+          3.33,
+          2.88,
+          2.58,
+          7.00
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2011",
+      "title": "Diploma I/II/III 2013",
+      "data": [
+        "Kab. Pandeglang",
+        "Kab. Lebak",
+        "Kab. Tangerang",
+        "Kab. Serang",
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0.43,
+          0.56,
+          1.78,
+          0.58,
+          3.50,
+          2.13,
+          2.18,
+          6.63
+        ]
+      }
+    ]
+  },
+{
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2011",
+      "title": "Diploma I/II/III 2014",
+      "data": [
+        "Kab. Pandeglang",
+        "Kab. Lebak",
+        "Kab. Tangerang",
+        "Kab. Serang",
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0.88,
+          0.40,
+          1.15,
+          0.73,
+          4.86,
+          1.95,
+          1.79,
+          5.21
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2011",
+      "title": "S1/D-IV ke Atas 2012",
+      "data": [
+        "Kab. Pandeglang",
+        "Kab. Lebak",
+        "Kab. Tangerang",
+        "Kab. Serang",
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          2.48,
+          1.25,
+          3.18,
+          2.59,
+          8.11,
+          5.95,
+          6.05,
+          15.34
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2011",
+      "title": "S1/D-IV ke Atas 2013",
+      "data": [
+        "Kab. Pandeglang",
+        "Kab. Lebak",
+        "Kab. Tangerang",
+        "Kab. Serang",
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          2.67,
+          1.67,
+          3.21,
+          1.42,
+          6.43,
+          3.95,
+          4.43,
+          14.29
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2011",
+      "title": "S1/D-IV ke Atas 2014",
+      "data": [
+        "Kab. Pandeglang",
+        "Kab. Lebak",
+        "Kab. Tangerang",
+        "Kab. Serang",
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          2.49,
+          1.77,
+          4.65,
+          2.11,
+          9.47,
+          4.88,
+          4.36,
+          16.55
         ]
       }
     ]
   }
+
+
 ]
+
+
+

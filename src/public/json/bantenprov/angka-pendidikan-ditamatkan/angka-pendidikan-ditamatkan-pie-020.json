@@ -4,20 +4,20 @@
       "type": "category",
       "region": "Provinsi",
       "name": "Banten",
-      "title": "Rasio Grup Kesenian 2010 Provinsi Banten",
+      "title": "Tidak/Belum Tamat SD/MI/Sederajat 2012",
       "yyyy": "2018"
     },
     "series": [
       {
         "data": [
-          {"value":6.33,"name":"Kabupaten Pandeglang"},
-          {"value":5.34,"name":"Kabupaten Lebak"},
-          {"value":7.85,"name":"Kabupaten Tangerang"},
-          {"value":6.07,"name":"Kabupaten Serang"},
-          {"value":9.64,"name":"Kota Tangerang"},
-          {"value":8.71,"name":"Kota Cilegon"},
-          {"value":8.23,"name":"Kota Serang"},
-          {"value":10.86,"name":"Kota Tangerang Selatan"}
+          {"value":21.07,"name":"Kab. Pandeglang"},
+          {"value":24.79,"name":"Kab. Lebak"},
+          {"value":12.50,"name":"Kab. Tangerang"},
+          {"value":19.04,"name":"Kab. Serang"},
+          {"value":7.38,"name":"Kota Tangerang"},
+          {"value":5.73,"name":"Kota Cilegon"},
+          {"value":13.04,"name":"Kota Serang"},
+          {"value":4.75,"name":"Kota Tangerang Selatan"}
         ]
       }
     ]
@@ -27,20 +27,20 @@
       "type": "category",
       "region": "Provinsi",
       "name": "Banten",
-      "title": "Rasio Grup Kesenian 2011 Provinsi Banten",
+      "title": "Tidak/Belum Tamat SD/MI/Sederajat 2013",
       "yyyy": "2018"
     },
     "series": [
       {
         "data": [
-          {"value":6.38,"name":"Kabupaten Pandeglang"},
-          {"value":5.58,"name":"Kabupaten Lebak"},
-          {"value":7.96,"name":"Kabupaten Tangerang"},
-          {"value":6.31,"name":"Kabupaten Serang"},
-          {"value":9.75,"name":"Kota Tangerang"},
-          {"value":8.93,"name":"Kota Cilegon"},
-          {"value":8.39,"name":"Kota Serang"},
-          {"value":10.87,"name":"Kota Tangerang Selatan"}
+          {"value":25.72,"name":"Kab. Pandeglang"},
+          {"value":26.46,"name":"Kab. Lebak"},
+          {"value":18.75,"name":"Kab. Tangerang"},
+          {"value":21.96,"name":"Kab. Serang"},
+          {"value":10.71,"name":"Kota Tangerang"},
+          {"value":13.97,"name":"Kota Cilegon"},
+          {"value":12.97,"name":"Kota Serang"},
+          {"value":6.68,"name":"Kota Tangerang Selatan"}
         ]
       }
     ]
@@ -50,20 +50,20 @@
       "type": "category",
       "region": "Provinsi",
       "name": "Banten",
-      "title": "Rasio Grup Kesenian 2012 Provinsi Banten",
+      "title": "Tidak/Belum Tamat SD/MI/Sederajat 2014",
       "yyyy": "2018"
     },
     "series": [
       {
         "data": [
-          {"value":6.43,"name":"Kabupaten Pandeglang"},
-          {"value":5.70,"name":"Kabupaten Lebak"},
-          {"value":8.07,"name":"Kabupaten Tangerang"},
-          {"value":6.57,"name":"Kabupaten Serang"},
-          {"value":9.76,"name":"Kota Tangerang"},
-          {"value":9.29,"name":"Kota Cilegon"},
-          {"value":8.48,"name":"Kota Serang"},
-          {"value":11.09,"name":"Kota Tangerang Selatan"}
+          {"value":26.04,"name":"Kab. Pandeglang"},
+          {"value":30.14,"name":"Kab. Lebak"},
+          {"value":20.19,"name":"Kab. Tangerang"},
+          {"value":24.24,"name":"Kab. Serang"},
+          {"value":8.18,"name":"Kota Tangerang"},
+          {"value":11.16,"name":"Kota Cilegon"},
+          {"value":18.67,"name":"Kota Serang"},
+          {"value":5.98,"name":"Kota Tangerang Selatan"}
         ]
       }
     ]
@@ -73,20 +73,20 @@
       "type": "category",
       "region": "Provinsi",
       "name": "Banten",
-      "title": "Rasio Grup Kesenian 2013 Provinsi Banten",
+      "title": "Tamat SD/MI/Sederajat 2012",
       "yyyy": "2018"
     },
     "series": [
       {
         "data": [
-          {"value":6.44,"name":"Kabupaten Pandeglang"},
-          {"value":5.81,"name":"Kabupaten Lebak"},
-          {"value":8.18,"name":"Kabupaten Tangerang"},
-          {"value":6.65,"name":"Kabupaten Serang"},
-          {"value":9.82,"name":"Kota Tangerang"},
-          {"value":9.60,"name":"Kota Cilegon"},
-          {"value":8.56,"name":"Kota Serang"},
-          {"value":11.48,"name":"Kota Tangerang Selatan"}
+          {"value":41.01,"name":"Kab. Pandeglang"},
+          {"value":47.19,"name":"Kab. Lebak"},
+          {"value":22.48,"name":"Kab. Tangerang"},
+          {"value":32.93,"name":"Kab. Serang"},
+          {"value":14.06,"name":"Kota Tangerang"},
+          {"value":21.06,"name":"Kota Cilegon"},
+          {"value":27.74,"name":"Kota Serang"},
+          {"value":13.24,"name":"Kota Tangerang Selatan"}
         ]
       }
     ]
@@ -96,20 +96,20 @@
       "type": "category",
       "region": "Provinsi",
       "name": "Banten",
-      "title": "Rasio Grup Kesenian 2014 Provinsi Banten",
+      "title": "Tamat SD/MI/Sederajat 2013",
       "yyyy": "2018"
     },
     "series": [
       {
         "data": [
-          {"value":6.45,"name":"Kabupaten Pandeglang"},
-          {"value":5.84,"name":"Kabupaten Lebak"},
-          {"value":8.20,"name":"Kabupaten Tangerang"},
-          {"value":6.69,"name":"Kabupaten Serang"},
-          {"value":10.20,"name":"Kota Tangerang"},
-          {"value":9.66,"name":"Kota Cilegon"},
-          {"value":8.85,"name":"Kota Serang"},
-          {"value":11.56,"name":"Kota Tangerang Selatan"}
+          {"value":39.31,"name":"Kab. Pandeglang"},
+          {"value":43.38,"name":"Kab. Lebak"},
+          {"value":24.45,"name":"Kab. Tangerang"},
+          {"value":30.99,"name":"Kab. Serang"},
+          {"value":15.45,"name":"Kota Tangerang"},
+          {"value":20.31,"name":"Kota Cilegon"},
+          {"value":32.10,"name":"Kota Serang"},
+          {"value":13.72,"name":"Kota Tangerang Selatan"}
         ]
       }
     ]
@@ -119,22 +119,299 @@
       "type": "category",
       "region": "Provinsi",
       "name": "Banten",
-      "title": "Rasio Grup Kesenian 2015 Provinsi Banten",
+      "title": "Tamat SD/MI/Sederajat 2014",
       "yyyy": "2018"
     },
     "series": [
       {
         "data": [
-          {"value":6.60,"name":"Kabupaten Pandeglang"},
-          {"value":5.86,"name":"Kabupaten Lebak"},
-          {"value":8.22,"name":"Kabupaten Tangerang"},
-          {"value":6.90,"name":"Kabupaten Serang"},
-          {"value":10.20,"name":"Kota Tangerang"},
-          {"value":9.67,"name":"Kota Cilegon"},
-          {"value":8.59,"name":"Kota Serang"},
-          {"value":11.57,"name":"Kota Tangerang Selatan"}
+          {"value":37.75,"name":"Kab. Pandeglang"},
+          {"value":41.34,"name":"Kab. Lebak"},
+          {"value":22.50,"name":"Kab. Tangerang"},
+          {"value":31.00,"name":"Kab. Serang"},
+          {"value":14.51,"name":"Kota Tangerang"},
+          {"value":18.81,"name":"Kota Cilegon"},
+          {"value":29.73,"name":"Kota Serang"},
+          {"value":11.98,"name":"Kota Tangerang Selatan"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "SMP/MTs/Sederajat 2012",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":20.93,"name":"Kab. Pandeglang"},
+          {"value":16.01,"name":"Kab. Lebak"},
+          {"value":27.59,"name":"Kab. Tangerang"},
+          {"value":23.75,"name":"Kab. Serang"},
+          {"value":23.34,"name":"Kota Tangerang"},
+          {"value":26.72,"name":"Kota Cilegon"},
+          {"value":20.98,"name":"Kota Serang"},
+          {"value":21.40,"name":"Kota Tangerang Selatan"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "SMP/MTs/Sederajat 2013",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":17.97,"name":"Kab. Pandeglang"},
+          {"value":17.22,"name":"Kab. Lebak"},
+          {"value":22.66,"name":"Kab. Tangerang"},
+          {"value":26.68,"name":"Kab. Serang"},
+          {"value":22.21,"name":"Kota Tangerang"},
+          {"value":25.54,"name":"Kota Cilegon"},
+          {"value":23.55,"name":"Kota Serang"},
+          {"value":19.53,"name":"Kota Tangerang Selatan"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "SMP/MTs/Sederajat 2014",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":19.65,"name":"Kab. Pandeglang"},
+          {"value":16.97,"name":"Kab. Lebak"},
+          {"value":23.05,"name":"Kab. Tangerang"},
+          {"value":23.17,"name":"Kab. Serang"},
+          {"value":21.05,"name":"Kota Tangerang"},
+          {"value":23.05,"name":"Kota Cilegon"},
+          {"value":21.19,"name":"Kota Serang"},
+          {"value":19.43,"name":"Kota Tangerang Selatan"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "SMA/SMK/MA/Sederajat 2012",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":13.62,"name":"Kab. Pandeglang"},
+          {"value":10.14,"name":"Kab. Lebak"},
+          {"value":32.20,"name":"Kab. Tangerang"},
+          {"value":20.66,"name":"Kab. Serang"},
+          {"value":43.78,"name":"Kota Tangerang"},
+          {"value":37.66,"name":"Kota Cilegon"},
+          {"value":29.62,"name":"Kota Serang"},
+          {"value":38.28,"name":"Kota Tangerang Selatan"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "SMA/SMK/MA/Sederajat 2013",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":13.90,"name":"Kab. Pandeglang"},
+          {"value":10.71,"name":"Kab. Lebak"},
+          {"value":29.16,"name":"Kab. Tangerang"},
+          {"value":18.37,"name":"Kab. Serang"},
+          {"value":41.70,"name":"Kota Tangerang"},
+          {"value":34.10,"name":"Kota Cilegon"},
+          {"value":24.76,"name":"Kota Serang"},
+          {"value":39.14,"name":"Kota Tangerang Selatan"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "SMA/SMK/MA/Sederajat 2014",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":13.19,"name":"Kab. Pandeglang"},
+          {"value":9.37,"name":"Kab. Lebak"},
+          {"value":28.46,"name":"Kab. Tangerang"},
+          {"value":18.75,"name":"Kab. Serang"},
+          {"value":41.92,"name":"Kota Tangerang"},
+          {"value":40.14,"name":"Kota Cilegon"},
+          {"value":24.26,"name":"Kota Serang"},
+          {"value":40.84,"name":"Kota Tangerang Selatan"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "Diploma I/II/III 2012",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":0.89,"name":"Kab. Pandeglang"},
+          {"value":0.62,"name":"Kab. Lebak"},
+          {"value":2.05,"name":"Kab. Tangerang"},
+          {"value":1.05,"name":"Kab. Serang"},
+          {"value":3.33,"name":"Kota Tangerang"},
+          {"value":2.88,"name":"Kota Cilegon"},
+          {"value":2.58,"name":"Kota Serang"},
+          {"value":7.00,"name":"Kota Tangerang Selatan"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "Diploma I/II/III 2013",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":0.43,"name":"Kab. Pandeglang"},
+          {"value":0.56,"name":"Kab. Lebak"},
+          {"value":1.78,"name":"Kab. Tangerang"},
+          {"value":0.58,"name":"Kab. Serang"},
+          {"value":3.50,"name":"Kota Tangerang"},
+          {"value":2.13,"name":"Kota Cilegon"},
+          {"value":2.18,"name":"Kota Serang"},
+          {"value":6.63,"name":"Kota Tangerang Selatan"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "Diploma I/II/III 2014",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":0.88,"name":"Kab. Pandeglang"},
+          {"value":0.40,"name":"Kab. Lebak"},
+          {"value":1.15,"name":"Kab. Tangerang"},
+          {"value":0.73,"name":"Kab. Serang"},
+          {"value":4.86,"name":"Kota Tangerang"},
+          {"value":1.95,"name":"Kota Cilegon"},
+          {"value":1.79,"name":"Kota Serang"},
+          {"value":5.21,"name":"Kota Tangerang Selatan"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "S1/D-IV ke Atas 2012",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":2.48,"name":"Kab. Pandeglang"},
+          {"value":1.25,"name":"Kab. Lebak"},
+          {"value":3.18,"name":"Kab. Tangerang"},
+          {"value":2.59,"name":"Kab. Serang"},
+          {"value":8.11,"name":"Kota Tangerang"},
+          {"value":5.95,"name":"Kota Cilegon"},
+          {"value":6.05,"name":"Kota Serang"},
+          {"value":15.34,"name":"Kota Tangerang Selatan"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "S1/D-IV ke Atas 2013",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":2.67,"name":"Kab. Pandeglang"},
+          {"value":1.67,"name":"Kab. Lebak"},
+          {"value":3.21,"name":"Kab. Tangerang"},
+          {"value":1.42,"name":"Kab. Serang"},
+          {"value":6.43,"name":"Kota Tangerang"},
+          {"value":3.95,"name":"Kota Cilegon"},
+          {"value":4.43,"name":"Kota Serang"},
+          {"value":14.29,"name":"Kota Tangerang Selatan"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "S1/D-IV ke Atas 2014",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":2.49,"name":"Kab. Pandeglang"},
+          {"value":1.77,"name":"Kab. Lebak"},
+          {"value":4.65,"name":"Kab. Tangerang"},
+          {"value":2.11,"name":"Kab. Serang"},
+          {"value":9.47,"name":"Kota Tangerang"},
+          {"value":4.88,"name":"Kota Cilegon"},
+          {"value":4.36,"name":"Kota Serang"},
+          {"value":16.55,"name":"Kota Tangerang Selatan"}
         ]
       }
     ]
   }
+  
 ]

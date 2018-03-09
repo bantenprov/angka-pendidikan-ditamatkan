@@ -1,3 +1,7 @@
+
+
+
+
 [
   {
     "xAxis": {
@@ -5,25 +9,25 @@
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2011",
-      "title": "Rasio Grup Kesenian Kabupaten Pandeglang",
+      "title": "Provinsi Banten (Tidak/Belum Tamat SD/MI/Sederajat)",
       "data": [
-        "2010",
         "2011",
         "2012",
         "2013",
         "2014",
-        "2015"
+        "2015",
+        "2016"
       ]
     },
     "series": [
       {
         "data": [
-          6.33,
-          6.38,
-          6.43,
-          6.44,
-          6.45,
-          6.50
+          18.53,
+          16.65,
+          17.79,
+          17.87,
+          15.65,
+          12.71
         ]
       }
     ]
@@ -31,27 +35,28 @@
   {
     "xAxis": {
       "type": "category",
-      "region": "Negara",
-      "title": "Rasio Grup Kesenian Kabupaten Lebak",
+      "region": "Provinsi",
+      "name": "Banten",
       "yyyy": "2011",
+      "title": "Provinsi Banten (SD/MI/Sederajat)",
       "data": [
-        "2010",
         "2011",
         "2012",
         "2013",
         "2014",
-        "2015"
+        "2015",
+        "2016"
       ]
     },
     "series": [
       {
         "data": [
-          5.34,
-          5.58,
-          5.70,
-          5.81,
-          5.84,
-          5.86
+          22.85,
+          24.60,
+          25.61,
+          24.40,
+          26.50,
+          31.48
         ]
       }
     ]
@@ -59,27 +64,28 @@
   {
     "xAxis": {
       "type": "category",
-      "region": "Negara",
-      "title": "Rasio Grup Kesenian Kabupaten Tangerang",
+      "region": "Provinsi",
+      "name": "Banten",
       "yyyy": "2011",
+      "title": "Provinsi Banten (SMP/MTs/Sederajat)",
       "data": [
-        "2010",
         "2011",
         "2012",
         "2013",
         "2014",
-        "2015"
+        "2015",
+        "2016"
       ]
     },
     "series": [
       {
         "data": [
-          7.85,
-          7.96,
-          8.07,
-          8.18,
-          8.20,
-          8.22
+          21.52,
+          22.38,
+          21.06,
+          21.17,
+          21.44,
+          18.67
         ]
       }
     ]
@@ -87,27 +93,28 @@
   {
     "xAxis": {
       "type": "category",
-      "region": "Negara",
-      "title": "Rasio Grup Kesenian Kabupaten Serang",
+      "region": "Provinsi",
+      "name": "Banten",
       "yyyy": "2011",
+      "title": "Provinsi Banten (SMA/SMK/MA/Sederajat)",
       "data": [
-        "2010",
         "2011",
         "2012",
         "2013",
         "2014",
-        "2015"
+        "2015",
+        "2016"
       ]
     },
     "series": [
       {
         "data": [
-          6.07,
-          6.31,
-          6.57,
-          6.65,
-          6.69,
-          6.90
+          26.30,
+          28.48,
+          27.89,
+          28.03,
+          28.21,
+          28.81
         ]
       }
     ]
@@ -115,27 +122,28 @@
   {
     "xAxis": {
       "type": "category",
-      "region": "Negara",
-      "title": "Rasio Grup Kesenian Kota Tangerang",
+      "region": "Provinsi",
+      "name": "Banten",
       "yyyy": "2011",
+      "title": "Provinsi Banten (Diploma I/II/III)",
       "data": [
-        "2010",
         "2011",
         "2012",
         "2013",
         "2014",
-        "2015"
+        "2015",
+        "2016"
       ]
     },
     "series": [
       {
         "data": [
-          9.64,
-          9.75,
-          9.76,
-          9.82,
-          10.20,
-          10.20
+          2.65,
+          2.51,
+          2.45,
+          2.26,
+          2.44,
+          1.94
         ]
       }
     ]
@@ -143,27 +151,28 @@
   {
     "xAxis": {
       "type": "category",
-      "region": "Negara",
-      "title": "Rasio Grup Kesenian Kota Cilegon",
+      "region": "Provinsi",
+      "name": "Banten",
       "yyyy": "2011",
+      "title": "Provinsi Banten (S1/D-IV ke Atas)",
       "data": [
-        "2010",
         "2011",
         "2012",
         "2013",
         "2014",
-        "2015"
+        "2015",
+        "2016"
       ]
     },
     "series": [
       {
         "data": [
-          8.71,
-          8.93,
-          9.29,
-          9.60,
-          9.66,
-          9.67
+          5.15,
+          5.39,
+          5.21,
+          6.27,
+          5.77,
+          6.39
         ]
       }
     ]
@@ -171,27 +180,28 @@
   {
     "xAxis": {
       "type": "category",
-      "region": "Negara",
-      "title": "Rasio Grup Kesenian Kota Serang",
+      "region": "Provinsi",
+      "name": "Banten",
       "yyyy": "2011",
+      "title": "Seluruh Indonesia (Tidak/Belum Tamat SD/MI/Sederajat)",
       "data": [
-        "2010",
         "2011",
         "2012",
         "2013",
         "2014",
-        "2015"
+        "2015",
+        "2016"
       ]
     },
     "series": [
       {
         "data": [
-          8.32,
-          8.39,
-          8.48,
-          8.56,
-          8.58,
-          8.59  
+          21.10,
+          19.78,
+          19.90,
+          19.13,
+          18.52,
+          16.16
         ]
       }
     ]
@@ -199,27 +209,144 @@
   {
     "xAxis": {
       "type": "category",
-      "region": "Negara",
-      "title": "Rasio Grup Kesenian Kota Tangerang Selatan",
+      "region": "Provinsi",
+      "name": "Banten",
       "yyyy": "2011",
+      "title": "Seluruh Indonesia (SD/MI/Sederajat)",
       "data": [
-        "2010",
         "2011",
         "2012",
         "2013",
         "2014",
-        "2015"
+        "2015",
+        "2016"
       ]
     },
     "series": [
       {
         "data": [
-          10.86,
-          10.87,
-          11.09,
-          11.48,
-          11.56,
-          11.57  
+          28.72,
+          28.09,
+          28.43,
+          27.41,
+          27.79,
+          33.08
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2011",
+      "title": "Seluruh Indonesia (SMP/MTs/Sederajat)",
+      "data": [
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          20.74,
+          21.00,
+          20.41,
+          20.82,
+          21.44,
+          16.49
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2011",
+      "title": "Seluruh Indonesia (SMA/SMK/MA/Sederajat)",
+      "data": [
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          22.71,
+          23.97,
+          24.31,
+          25.18,
+          24.30,
+          26.35
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2011",
+      "title": "Seluruh Indonesia (Diploma I/II/III)",
+      "data": [
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          2.31,
+          2.26,
+          2.15,
+          2.14,
+          2.33,
+          1.96
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2011",
+      "title": "Seluruh Indonesia (S1/D-IV ke Atas)",
+      "data": [
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          4.42,
+          4.90,
+          4.81,
+          5.32,
+          5.62,
+          5.96
         ]
       }
     ]

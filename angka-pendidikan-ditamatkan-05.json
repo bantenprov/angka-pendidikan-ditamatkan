@@ -1,0 +1,168 @@
+[
+{
+    "2012": [
+      {
+        "kabupaten": [
+          {
+            "tingkat": "Kabupaten",
+            "wilayah": "Banten",
+            "name": "Diploma I/II/III",
+            "data": {
+              " Pandeglang": 0.89,
+              " Lebak": 0.62,
+              "Tangerang": 2.05,
+              "Serang": 1.05
+            }
+          },
+          {
+            "tingkat": "Kabupaten",
+            "wilayah": "Banten",
+            "name": "SI/DIV ke Atas",
+            "data": {
+              " Pandeglang": 2.48,
+              " Lebak": 1.25,
+              "Tangerang": 3.18,
+              "Serang": 2.59
+            }
+          }
+        ],
+        
+        "kota": [
+          {
+            "tingkat": "Kota",
+            "wilayah": "Banten",
+            "name": "Diploma I/II/III",
+            "data": {
+              "Tangerang": 3.33,
+              "Cilegon": 2.88,
+              "Serang": 2.58,
+              "Tangerang Selatan": 7.00
+            }
+          },
+          {
+            "tingkat": "Kota",
+            "wilayah": "Banten",
+            "name": "SI/DIV ke Atas",
+            "data": {
+              "Tangerang": 8.11,
+              "Cilegon": 5.95,
+              "Serang": 6.05,
+              "Tangerang Selatan": 15.34
+            }
+          }
+        ]
+      }
+    ],
+    
+     "2013": [
+      {
+        "kabupaten": [
+          {
+            "tingkat": "Kabupaten",
+            "wilayah": "Banten",
+            "name": "Diploma I/II/III",
+            "data": {
+              " Pandeglang": 0.43,
+              " Lebak": 0.56,
+              "Tangerang": 1.78,
+              "Serang": 0.58
+            }
+          },
+          {
+            "tingkat": "Kabupaten",
+            "wilayah": "Banten",
+            "name": "SI/DIV ke Atas",
+            "data": {
+              " Pandeglang": 2.67,
+              " Lebak": 1.67,
+              "Tangerang": 3.21,
+              "Serang": 1.42
+            }
+          }
+        ],
+        
+        "kota": [
+          {
+            "tingkat": "Kota",
+            "wilayah": "Banten",
+            "name": "Diploma I/II/III",
+            "data": {
+              "Tangerang": 3.50,
+              "Cilegon": 2.13,
+              "Serang": 2.18,
+              "Tangerang Selatan": 6.63
+            }
+          },
+          {
+            "tingkat": "Kota",
+            "wilayah": "Banten",
+            "name": "SI/DIV ke Atas",
+            "data": {
+              "Tangerang": 6.43,
+              "Cilegon": 3.95,
+              "Serang": 4.43,
+              "Tangerang Selatan": 14.29
+            }
+          }
+        ]
+      }
+    ],
+    
+    "2014": [
+      {
+        "kabupaten": [
+          {
+            "tingkat": "Kabupaten",
+            "wilayah": "Banten",
+            "name": "Diploma I/II/III",
+            "data": {
+              " Pandeglang": 0.88,
+              " Lebak": 0.40,
+              "Tangerang": 1.15,
+              "Serang": 0.73
+            }
+          },
+          {
+            "tingkat": "Kabupaten",
+            "wilayah": "Banten",
+            "name": "SI/DIV ke Atas",
+            "data": {
+              " Pandeglang": 2.49,
+              " Lebak": 1.77,
+              "Tangerang": 4.65,
+              "Serang": 2.11
+            }
+          }
+        ],
+        
+        "kota": [
+          {
+            "tingkat": "Kota",
+            "wilayah": "Banten",
+            "name": "Diploma I/II/III",
+            "data": {
+              "Tangerang": 4.86,
+              "Cilegon": 1.95,
+              "Serang": 1.79,
+              "Tangerang Selatan": 5.21
+            }
+          },
+          {
+            "tingkat": "Kota",
+            "wilayah": "Banten",
+            "name": "SI/DIV ke Atas",
+            "data": {
+              "Tangerang": 9.47,
+              "Cilegon": 4.88,
+              "Serang": 4.36,
+              "Tangerang Selatan": 16.55
+            }
+          }
+        ]
+      }
+    ]
+    
+   
+      
+  }
+  ]
