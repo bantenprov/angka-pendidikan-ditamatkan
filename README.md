@@ -120,7 +120,7 @@ $ php artisan vendor:publish --tag=angka-pendidikan-ditamatkan-public
                 sidebar: resolve => require(['./components/Sidebar.vue'], resolve)
             },
             meta: {
-                title: "Angka Pendidikan Yang DitamatkanAngka Pendidikan Yang Ditamatkan"
+                title: "Angka Pendidikan Yang Ditamatkan"
             }
         },
         {
