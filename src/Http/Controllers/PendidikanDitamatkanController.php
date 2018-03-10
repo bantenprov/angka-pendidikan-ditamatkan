@@ -5,7 +5,7 @@ namespace Bantenprov\PendidikanDitamatkan\Http\Controllers;
 /* Require */
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
-use Bantenprov\BudgetAbsorption\Facades\PendidikanDitamatkanFacade;
+use Bantenprov\PendidikanDitamatkan\Facades\PendidikanDitamatkanFacade;
 
 /* Models */
 use Bantenprov\PendidikanDitamatkan\Models\Bantenprov\PendidikanDitamatkan\PendidikanDitamatkan;
